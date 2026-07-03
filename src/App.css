@@ -1,0 +1,26 @@
+.artigos {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  
+  h2{
+    color:blue;
+  }
+
+  button{
+    margin-left: auto;
+    background-color: aliceblue;
+    color: violet;
+    border: 1px solid violet;
+    font-weight: 900;
+    padding: 5px 20px;
+    border-radius: 5px;
+  }
+}
+
+article {
+width: ;
+box-shadow: 0 5px 10px rgba(37, 31, 66, 0.5);
+
+}
